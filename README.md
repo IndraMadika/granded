@@ -1,0 +1,2 @@
+# granded
+membuat remote repasitory
